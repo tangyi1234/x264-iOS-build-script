@@ -1,13 +1,13 @@
 # x264 iOS build script
 
-**My blog: [http://depthlove.github.io/](http://depthlove.github.io/)**
+**My blog: [http://www.jianshu.com/u/1cac5c2fc495](http://www.jianshu.com/u/1cac5c2fc495)**
 
 This is a shell script to build x264 for iOS apps.
 
 Tested with:
 
-* x264-snapshot-20140914-2245
-* Xcode 6.4
+* x264-snapshot-20170904-2245
+* Xcode 8.3.2
 
 ## Requirements
 
@@ -31,12 +31,3 @@ Tested with:
 
         ./build-x264.sh lipo
 
-#### About x264 encode video streaming to h264, you can watch my paper [http://depthlove.github.io/2015/09/17/use-x264-encode-iOS-camera-video-to-h264/](http://depthlove.github.io/2015/09/17/use-x264-encode-iOS-camera-video-to-h264/)
-
-##### 关于x264编码视频流为h264的内容，可以参看我的文章：[http://depthlove.github.io/2015/09/17/use-x264-encode-iOS-camera-video-to-h264/](http://depthlove.github.io/2015/09/17/use-x264-encode-iOS-camera-video-to-h264/)
-
----
-
-##### If you want to know more things, you can view my github blog: [http://depthlove.github.io/](http://depthlove.github.io/).
-
-##### 更多内容可参看我的github博客：[http://depthlove.github.io/](http://depthlove.github.io/)
